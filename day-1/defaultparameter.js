@@ -11,7 +11,7 @@ add()
 
 let sub=(a=10,b=7)=>{
     const result=a-b
-    console.log("sub result: ",result)
+    console.log("subtract result: ",result)
 }
 
 sub(20,7)
